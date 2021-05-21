@@ -120,7 +120,15 @@ eksctl version
 ### Step-03-02: eksctl on windows or linux
 - For windows and linux OS, you can refer below documentation link. 
 - **Reference:** https://docs.aws.amazon.com/eks/latest/userguide/eksctl.html#installing-eksctl
+below-given steps to install eksctl command in your system.
+https://github.com/weaveworks/eksctl/releases
 
+- Download the software from the below-given link.
+- https://github.com/weaveworks/eksctl/releases/download/0.50.0/eksctl_Windows_amd64.zip
+- Unzip the folder.
+- Set a path in your environment variable.
+- Check if it is working or not, using the below-given command.
+- $ eksctl version
 
 ## References:
 - https://docs.aws.amazon.com/eks/latest/userguide/getting-started-eksctl.html
